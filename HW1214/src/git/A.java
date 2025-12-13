@@ -6,5 +6,10 @@ public class A {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
+	public void delete() {
+		System.out.print("delete");
+	}
 
 }
